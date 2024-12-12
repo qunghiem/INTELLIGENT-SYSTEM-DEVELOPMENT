@@ -1,0 +1,501 @@
+Product,User,Comment,Rating,Date
+Áo thun,user_268,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-04-04
+Giày thể thao,user_398,Dịch vụ khách hàng rất tệ.,4,2023-09-03
+Áo thun,user_319,Sẽ tiếp tục mua hàng lần sau.,4,2023-02-08
+Điện thoại,user_295,Không hài lòng với chất lượng sản phẩm.,5,2024-10-11
+Bàn phím cơ,user_141,"Đóng gói cẩn thận, giá hợp lý.",4,2023-06-03
+Áo thun,user_497,Giao hàng rất nhanh và đúng hẹn.,2,2024-06-14
+Áo thun,user_358,Giao hàng rất nhanh và đúng hẹn.,4,2024-07-07
+Giày thể thao,user_380,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-08-12
+Laptop,user_309,Chất lượng không đúng như mong đợi.,1,2024-10-22
+Giày thể thao,user_206,Chất lượng không đúng như mong đợi.,4,2023-06-07
+Áo thun,user_106,"Đóng gói cẩn thận, giá hợp lý.",2,2023-11-24
+Laptop,user_408,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2024-04-23
+Điện thoại,user_40,"Đóng gói cẩn thận, giá hợp lý.",2,2023-12-11
+Laptop,user_480,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-02-23
+Bàn phím cơ,user_211,Không hài lòng với chất lượng sản phẩm.,5,2023-05-10
+Giày thể thao,user_205,"Sản phẩm bị lỗi, yêu cầu đổi trả.",5,2023-06-21
+Bàn phím cơ,user_279,Sẽ tiếp tục mua hàng lần sau.,3,2024-10-16
+Áo thun,user_90,Dịch vụ khách hàng rất tệ.,4,2024-08-01
+Giày thể thao,user_397,Không hài lòng với chất lượng sản phẩm.,1,2023-01-27
+Giày thể thao,user_95,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2023-04-25
+Giày thể thao,user_38,Dịch vụ khách hàng rất tệ.,5,2023-08-19
+Áo thun,user_99,Chất lượng không đúng như mong đợi.,5,2023-06-21
+Laptop,user_254,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-09-23
+Giày thể thao,user_469,"Đóng gói cẩn thận, giá hợp lý.",4,2023-08-29
+Giày thể thao,user_43,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2024-09-04
+Áo thun,user_386,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-09-18
+Laptop,user_28,"Sản phẩm rất tốt, giao hàng nhanh.",1,2024-10-25
+Điện thoại,user_70,Dịch vụ khách hàng rất tệ.,3,2024-02-17
+Áo thun,user_409,"Sản phẩm rất tốt, giao hàng nhanh.",2,2024-01-07
+Điện thoại,user_398,Sẽ tiếp tục mua hàng lần sau.,2,2024-08-19
+Điện thoại,user_452,"Sản phẩm rất tốt, giao hàng nhanh.",4,2024-10-06
+Bàn phím cơ,user_153,Chất lượng không đúng như mong đợi.,5,2023-01-01
+Giày thể thao,user_135,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-09-26
+Điện thoại,user_332,"Đóng gói cẩn thận, giá hợp lý.",5,2024-01-01
+Giày thể thao,user_61,Không hài lòng với chất lượng sản phẩm.,5,2024-05-20
+Điện thoại,user_315,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-01-13
+Điện thoại,user_24,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-08-05
+Áo thun,user_182,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-09-27
+Áo thun,user_318,Dịch vụ khách hàng rất tệ.,2,2023-01-21
+Giày thể thao,user_412,Không hài lòng với chất lượng sản phẩm.,2,2023-12-07
+Bàn phím cơ,user_327,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-03-07
+Giày thể thao,user_147,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2024-03-02
+Bàn phím cơ,user_295,Không hài lòng với chất lượng sản phẩm.,5,2023-06-08
+Bàn phím cơ,user_428,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2024-01-14
+Laptop,user_82,Không hài lòng với chất lượng sản phẩm.,4,2023-07-11
+Giày thể thao,user_475,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2024-07-15
+Áo thun,user_256,Không hài lòng với chất lượng sản phẩm.,4,2024-06-13
+Điện thoại,user_246,Giao hàng rất nhanh và đúng hẹn.,2,2023-12-18
+Điện thoại,user_97,Không hài lòng với chất lượng sản phẩm.,1,2023-09-12
+Giày thể thao,user_111,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-07-27
+Giày thể thao,user_372,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-06-06
+Áo thun,user_335,Giao hàng rất nhanh và đúng hẹn.,3,2024-04-29
+Laptop,user_20,Chất lượng không đúng như mong đợi.,4,2024-07-02
+Điện thoại,user_454,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-05-02
+Laptop,user_3,Chất lượng không đúng như mong đợi.,1,2024-01-07
+Giày thể thao,user_297,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2024-07-14
+Áo thun,user_332,"Đóng gói cẩn thận, giá hợp lý.",5,2024-06-20
+Bàn phím cơ,user_407,Không hài lòng với chất lượng sản phẩm.,2,2023-02-22
+Bàn phím cơ,user_448,Không hài lòng với chất lượng sản phẩm.,1,2024-01-24
+Điện thoại,user_433,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",1,2023-03-20
+Điện thoại,user_3,Chất lượng không đúng như mong đợi.,4,2023-06-23
+Laptop,user_185,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-04-15
+Áo thun,user_157,Sẽ tiếp tục mua hàng lần sau.,2,2023-10-04
+Áo thun,user_412,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-06-04
+Điện thoại,user_258,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2023-01-09
+Điện thoại,user_103,Không hài lòng với chất lượng sản phẩm.,2,2024-08-14
+Laptop,user_163,Sẽ tiếp tục mua hàng lần sau.,3,2023-05-02
+Điện thoại,user_378,Sẽ tiếp tục mua hàng lần sau.,5,2023-07-27
+Bàn phím cơ,user_370,Không hài lòng với chất lượng sản phẩm.,2,2023-11-20
+Laptop,user_190,Sẽ tiếp tục mua hàng lần sau.,1,2023-05-26
+Áo thun,user_320,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-10-07
+Áo thun,user_408,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-10-21
+Áo thun,user_391,Sẽ tiếp tục mua hàng lần sau.,2,2024-07-15
+Bàn phím cơ,user_368,Dịch vụ khách hàng rất tệ.,2,2024-05-15
+Giày thể thao,user_248,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",1,2024-01-19
+Áo thun,user_471,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-01-18
+Giày thể thao,user_357,Giao hàng rất nhanh và đúng hẹn.,1,2023-08-06
+Laptop,user_346,Dịch vụ khách hàng rất tệ.,3,2023-06-22
+Bàn phím cơ,user_231,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2023-07-19
+Giày thể thao,user_118,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-09-25
+Điện thoại,user_323,"Đóng gói cẩn thận, giá hợp lý.",1,2023-07-24
+Laptop,user_381,Giao hàng rất nhanh và đúng hẹn.,5,2023-06-22
+Điện thoại,user_398,Không hài lòng với chất lượng sản phẩm.,2,2024-01-24
+Laptop,user_39,Chất lượng không đúng như mong đợi.,3,2023-02-14
+Điện thoại,user_481,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2023-11-19
+Laptop,user_52,Giao hàng rất nhanh và đúng hẹn.,3,2024-09-15
+Giày thể thao,user_201,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-08-19
+Bàn phím cơ,user_270,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-03-09
+Bàn phím cơ,user_256,"Đóng gói cẩn thận, giá hợp lý.",4,2024-05-08
+Giày thể thao,user_126,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",1,2023-02-06
+Áo thun,user_28,Chất lượng không đúng như mong đợi.,2,2023-06-30
+Laptop,user_31,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2024-05-13
+Áo thun,user_220,"Đóng gói cẩn thận, giá hợp lý.",1,2024-02-26
+Điện thoại,user_257,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2023-04-27
+Giày thể thao,user_415,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-10-18
+Điện thoại,user_290,Sẽ tiếp tục mua hàng lần sau.,3,2023-12-03
+Bàn phím cơ,user_214,Không hài lòng với chất lượng sản phẩm.,1,2024-05-06
+Áo thun,user_134,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2023-11-23
+Bàn phím cơ,user_286,Giao hàng rất nhanh và đúng hẹn.,4,2023-04-02
+Laptop,user_22,Giao hàng rất nhanh và đúng hẹn.,5,2023-09-29
+Bàn phím cơ,user_215,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-09-21
+Laptop,user_442,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-05-20
+Áo thun,user_201,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2024-01-09
+Giày thể thao,user_414,Không hài lòng với chất lượng sản phẩm.,5,2024-01-05
+Áo thun,user_145,Không hài lòng với chất lượng sản phẩm.,1,2023-05-29
+Giày thể thao,user_495,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2023-02-28
+Laptop,user_421,Giao hàng rất nhanh và đúng hẹn.,5,2023-07-22
+Laptop,user_390,Dịch vụ khách hàng rất tệ.,5,2023-02-25
+Laptop,user_409,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2024-07-06
+Laptop,user_410,Không hài lòng với chất lượng sản phẩm.,2,2023-06-14
+Bàn phím cơ,user_367,Không hài lòng với chất lượng sản phẩm.,3,2024-10-07
+Áo thun,user_232,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-08-31
+Giày thể thao,user_77,Chất lượng không đúng như mong đợi.,5,2024-01-27
+Áo thun,user_78,Chất lượng không đúng như mong đợi.,3,2023-01-04
+Bàn phím cơ,user_140,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-04-29
+Laptop,user_84,"Đóng gói cẩn thận, giá hợp lý.",5,2023-10-13
+Laptop,user_499,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-11-03
+Giày thể thao,user_391,Giao hàng rất nhanh và đúng hẹn.,1,2023-04-22
+Laptop,user_209,Chất lượng không đúng như mong đợi.,3,2023-07-04
+Giày thể thao,user_379,Dịch vụ khách hàng rất tệ.,3,2024-06-12
+Giày thể thao,user_322,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-07-02
+Áo thun,user_8,"Đóng gói cẩn thận, giá hợp lý.",3,2024-05-10
+Điện thoại,user_387,Chất lượng không đúng như mong đợi.,4,2023-06-15
+Giày thể thao,user_8,"Sản phẩm rất tốt, giao hàng nhanh.",2,2024-08-10
+Giày thể thao,user_21,Sẽ tiếp tục mua hàng lần sau.,3,2023-02-02
+Laptop,user_467,Dịch vụ khách hàng rất tệ.,4,2024-05-01
+Bàn phím cơ,user_386,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2024-09-13
+Điện thoại,user_239,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-09-01
+Bàn phím cơ,user_352,Chất lượng không đúng như mong đợi.,1,2023-03-03
+Áo thun,user_394,Giao hàng rất nhanh và đúng hẹn.,3,2023-10-27
+Laptop,user_126,Dịch vụ khách hàng rất tệ.,4,2023-05-03
+Laptop,user_68,"Đóng gói cẩn thận, giá hợp lý.",2,2023-03-27
+Bàn phím cơ,user_21,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2023-04-08
+Điện thoại,user_258,Sẽ tiếp tục mua hàng lần sau.,3,2023-07-11
+Giày thể thao,user_14,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2023-09-30
+Bàn phím cơ,user_97,Giao hàng rất nhanh và đúng hẹn.,2,2024-07-03
+Bàn phím cơ,user_14,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-12-29
+Áo thun,user_299,Sẽ tiếp tục mua hàng lần sau.,1,2024-01-19
+Giày thể thao,user_236,"Sản phẩm rất tốt, giao hàng nhanh.",1,2024-02-20
+Áo thun,user_33,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2024-06-15
+Áo thun,user_500,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2024-09-18
+Laptop,user_324,Sẽ tiếp tục mua hàng lần sau.,4,2023-06-20
+Laptop,user_71,Sẽ tiếp tục mua hàng lần sau.,3,2023-09-03
+Giày thể thao,user_496,Sẽ tiếp tục mua hàng lần sau.,1,2024-04-17
+Giày thể thao,user_438,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2023-10-22
+Laptop,user_317,Chất lượng không đúng như mong đợi.,1,2023-03-26
+Điện thoại,user_215,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-01-13
+Điện thoại,user_210,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-09-16
+Bàn phím cơ,user_479,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-02-03
+Giày thể thao,user_104,Giao hàng rất nhanh và đúng hẹn.,4,2023-08-16
+Laptop,user_50,Chất lượng không đúng như mong đợi.,4,2023-02-06
+Giày thể thao,user_464,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-10-31
+Laptop,user_311,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-12-06
+Giày thể thao,user_243,Chất lượng không đúng như mong đợi.,5,2024-01-25
+Bàn phím cơ,user_183,Không hài lòng với chất lượng sản phẩm.,5,2023-03-13
+Giày thể thao,user_456,"Đóng gói cẩn thận, giá hợp lý.",2,2023-10-12
+Giày thể thao,user_444,Dịch vụ khách hàng rất tệ.,2,2024-10-12
+Bàn phím cơ,user_50,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2023-12-31
+Laptop,user_62,Giao hàng rất nhanh và đúng hẹn.,1,2024-10-13
+Giày thể thao,user_381,Không hài lòng với chất lượng sản phẩm.,3,2024-06-09
+Bàn phím cơ,user_160,"Đóng gói cẩn thận, giá hợp lý.",2,2023-04-17
+Bàn phím cơ,user_66,Giao hàng rất nhanh và đúng hẹn.,3,2023-02-02
+Điện thoại,user_158,Sẽ tiếp tục mua hàng lần sau.,4,2024-07-31
+Giày thể thao,user_392,Không hài lòng với chất lượng sản phẩm.,1,2023-11-04
+Áo thun,user_271,"Đóng gói cẩn thận, giá hợp lý.",1,2024-06-16
+Laptop,user_268,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2023-02-10
+Áo thun,user_266,Sẽ tiếp tục mua hàng lần sau.,2,2024-10-18
+Laptop,user_399,Dịch vụ khách hàng rất tệ.,1,2023-01-09
+Laptop,user_105,Sẽ tiếp tục mua hàng lần sau.,3,2024-02-02
+Laptop,user_161,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2023-04-19
+Bàn phím cơ,user_49,Sẽ tiếp tục mua hàng lần sau.,5,2023-05-06
+Áo thun,user_97,"Đóng gói cẩn thận, giá hợp lý.",2,2024-07-16
+Điện thoại,user_475,Giao hàng rất nhanh và đúng hẹn.,5,2024-05-17
+Điện thoại,user_27,Sẽ tiếp tục mua hàng lần sau.,2,2023-08-06
+Áo thun,user_336,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-08-12
+Bàn phím cơ,user_471,Giao hàng rất nhanh và đúng hẹn.,2,2024-01-07
+Điện thoại,user_163,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2023-09-12
+Bàn phím cơ,user_237,"Đóng gói cẩn thận, giá hợp lý.",4,2024-10-22
+Giày thể thao,user_339,"Sản phẩm rất tốt, giao hàng nhanh.",2,2024-10-21
+Áo thun,user_1,Chất lượng không đúng như mong đợi.,2,2024-07-06
+Laptop,user_57,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-03-08
+Áo thun,user_70,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-09-19
+Bàn phím cơ,user_420,"Đóng gói cẩn thận, giá hợp lý.",4,2023-12-31
+Laptop,user_300,"Đóng gói cẩn thận, giá hợp lý.",5,2023-10-02
+Áo thun,user_381,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2024-06-28
+Giày thể thao,user_406,Chất lượng không đúng như mong đợi.,3,2023-02-12
+Giày thể thao,user_419,"Đóng gói cẩn thận, giá hợp lý.",2,2023-03-03
+Laptop,user_7,Dịch vụ khách hàng rất tệ.,4,2023-02-25
+Áo thun,user_279,Sẽ tiếp tục mua hàng lần sau.,2,2023-07-31
+Giày thể thao,user_129,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2024-08-28
+Laptop,user_190,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2024-09-01
+Bàn phím cơ,user_491,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-04-03
+Áo thun,user_18,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-03-14
+Áo thun,user_270,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2023-03-05
+Laptop,user_491,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2024-05-10
+Bàn phím cơ,user_15,Dịch vụ khách hàng rất tệ.,1,2023-02-14
+Áo thun,user_239,Sẽ tiếp tục mua hàng lần sau.,3,2024-08-19
+Điện thoại,user_130,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-06-06
+Áo thun,user_93,Chất lượng không đúng như mong đợi.,1,2023-02-06
+Điện thoại,user_353,Chất lượng không đúng như mong đợi.,2,2023-08-02
+Bàn phím cơ,user_96,Dịch vụ khách hàng rất tệ.,4,2024-10-25
+Điện thoại,user_186,Sẽ tiếp tục mua hàng lần sau.,3,2024-01-15
+Điện thoại,user_427,Dịch vụ khách hàng rất tệ.,1,2024-06-06
+Bàn phím cơ,user_315,Chất lượng không đúng như mong đợi.,2,2023-06-20
+Giày thể thao,user_340,Sẽ tiếp tục mua hàng lần sau.,4,2023-06-10
+Bàn phím cơ,user_324,Giao hàng rất nhanh và đúng hẹn.,4,2023-09-24
+Laptop,user_54,Chất lượng không đúng như mong đợi.,2,2023-04-27
+Áo thun,user_362,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-11-07
+Giày thể thao,user_387,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-06-26
+Bàn phím cơ,user_57,Dịch vụ khách hàng rất tệ.,5,2024-07-17
+Giày thể thao,user_389,Dịch vụ khách hàng rất tệ.,2,2023-12-07
+Giày thể thao,user_468,Không hài lòng với chất lượng sản phẩm.,5,2023-06-13
+Điện thoại,user_148,Sẽ tiếp tục mua hàng lần sau.,3,2024-03-02
+Áo thun,user_67,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-07-05
+Giày thể thao,user_484,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-03-11
+Giày thể thao,user_304,Không hài lòng với chất lượng sản phẩm.,5,2023-05-06
+Điện thoại,user_203,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-01-10
+Giày thể thao,user_97,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-05-08
+Áo thun,user_133,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-06-03
+Điện thoại,user_425,Dịch vụ khách hàng rất tệ.,5,2023-07-21
+Áo thun,user_399,Sẽ tiếp tục mua hàng lần sau.,1,2024-09-12
+Điện thoại,user_164,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2024-10-05
+Điện thoại,user_165,Giao hàng rất nhanh và đúng hẹn.,1,2023-04-12
+Giày thể thao,user_431,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2024-09-25
+Áo thun,user_320,Sẽ tiếp tục mua hàng lần sau.,3,2023-04-14
+Áo thun,user_296,Dịch vụ khách hàng rất tệ.,3,2024-02-19
+Laptop,user_169,Chất lượng không đúng như mong đợi.,1,2023-05-21
+Áo thun,user_319,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-10-07
+Điện thoại,user_268,Chất lượng không đúng như mong đợi.,5,2023-04-17
+Áo thun,user_82,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-07-04
+Áo thun,user_160,Không hài lòng với chất lượng sản phẩm.,3,2024-10-18
+Giày thể thao,user_144,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-05-24
+Điện thoại,user_373,"Đóng gói cẩn thận, giá hợp lý.",2,2023-06-20
+Giày thể thao,user_113,Chất lượng không đúng như mong đợi.,2,2023-09-29
+Giày thể thao,user_34,"Sản phẩm bị lỗi, yêu cầu đổi trả.",5,2023-01-23
+Điện thoại,user_284,"Sản phẩm bị lỗi, yêu cầu đổi trả.",5,2024-09-03
+Bàn phím cơ,user_422,Giao hàng rất nhanh và đúng hẹn.,3,2024-08-06
+Áo thun,user_410,Không hài lòng với chất lượng sản phẩm.,3,2023-01-22
+Bàn phím cơ,user_175,Không hài lòng với chất lượng sản phẩm.,4,2023-03-26
+Điện thoại,user_186,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-03-26
+Áo thun,user_418,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-03-17
+Giày thể thao,user_174,Sẽ tiếp tục mua hàng lần sau.,2,2023-06-01
+Laptop,user_188,Không hài lòng với chất lượng sản phẩm.,1,2024-03-09
+Áo thun,user_379,"Đóng gói cẩn thận, giá hợp lý.",3,2023-08-18
+Điện thoại,user_332,Chất lượng không đúng như mong đợi.,4,2023-02-22
+Laptop,user_321,Chất lượng không đúng như mong đợi.,4,2023-03-05
+Điện thoại,user_355,Dịch vụ khách hàng rất tệ.,3,2023-04-04
+Laptop,user_196,Giao hàng rất nhanh và đúng hẹn.,1,2023-11-03
+Laptop,user_216,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-02-01
+Bàn phím cơ,user_454,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2024-02-22
+Laptop,user_186,Sẽ tiếp tục mua hàng lần sau.,2,2024-09-13
+Bàn phím cơ,user_383,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2024-08-23
+Bàn phím cơ,user_72,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-04-24
+Điện thoại,user_447,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2023-02-12
+Áo thun,user_290,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-10-02
+Bàn phím cơ,user_216,"Đóng gói cẩn thận, giá hợp lý.",2,2024-01-09
+Điện thoại,user_207,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-09-16
+Áo thun,user_135,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2024-10-16
+Điện thoại,user_3,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2023-02-03
+Laptop,user_258,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-06-30
+Áo thun,user_4,Sẽ tiếp tục mua hàng lần sau.,3,2024-05-19
+Áo thun,user_243,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-03-23
+Điện thoại,user_148,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2023-02-25
+Laptop,user_429,Dịch vụ khách hàng rất tệ.,5,2023-07-09
+Laptop,user_5,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-09-21
+Giày thể thao,user_438,Sẽ tiếp tục mua hàng lần sau.,5,2023-01-16
+Áo thun,user_99,Giao hàng rất nhanh và đúng hẹn.,1,2023-02-08
+Bàn phím cơ,user_157,Không hài lòng với chất lượng sản phẩm.,2,2023-03-21
+Giày thể thao,user_428,Giao hàng rất nhanh và đúng hẹn.,2,2023-09-28
+Giày thể thao,user_325,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-06-16
+Bàn phím cơ,user_197,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-01-26
+Giày thể thao,user_240,Dịch vụ khách hàng rất tệ.,4,2023-02-14
+Áo thun,user_82,Dịch vụ khách hàng rất tệ.,4,2023-02-07
+Giày thể thao,user_45,Giao hàng rất nhanh và đúng hẹn.,5,2024-09-05
+Điện thoại,user_122,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2024-03-20
+Laptop,user_474,"Sản phẩm bị lỗi, yêu cầu đổi trả.",5,2024-07-10
+Điện thoại,user_472,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2024-03-15
+Laptop,user_491,Giao hàng rất nhanh và đúng hẹn.,5,2023-05-03
+Điện thoại,user_333,Giao hàng rất nhanh và đúng hẹn.,2,2023-05-21
+Bàn phím cơ,user_465,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2023-06-03
+Bàn phím cơ,user_7,"Đóng gói cẩn thận, giá hợp lý.",4,2024-07-29
+Áo thun,user_43,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-07-07
+Điện thoại,user_235,"Đóng gói cẩn thận, giá hợp lý.",2,2024-10-01
+Điện thoại,user_167,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2023-03-07
+Điện thoại,user_383,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2023-11-18
+Bàn phím cơ,user_399,"Đóng gói cẩn thận, giá hợp lý.",5,2023-11-16
+Điện thoại,user_180,"Đóng gói cẩn thận, giá hợp lý.",1,2024-09-12
+Bàn phím cơ,user_164,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-12-02
+Áo thun,user_356,Sẽ tiếp tục mua hàng lần sau.,4,2023-04-17
+Điện thoại,user_386,Không hài lòng với chất lượng sản phẩm.,5,2023-07-18
+Áo thun,user_261,"Sản phẩm rất tốt, giao hàng nhanh.",2,2023-02-10
+Giày thể thao,user_149,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-11-09
+Bàn phím cơ,user_248,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-02-24
+Giày thể thao,user_421,"Sản phẩm rất tốt, giao hàng nhanh.",1,2024-07-23
+Áo thun,user_336,Dịch vụ khách hàng rất tệ.,2,2023-06-27
+Điện thoại,user_166,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-02-11
+Giày thể thao,user_308,Sẽ tiếp tục mua hàng lần sau.,3,2023-07-24
+Laptop,user_191,Giao hàng rất nhanh và đúng hẹn.,1,2024-07-23
+Áo thun,user_178,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-06-30
+Áo thun,user_368,"Sản phẩm rất tốt, giao hàng nhanh.",2,2024-03-12
+Áo thun,user_212,Dịch vụ khách hàng rất tệ.,3,2023-12-04
+Điện thoại,user_40,Dịch vụ khách hàng rất tệ.,2,2023-05-30
+Điện thoại,user_266,"Sản phẩm bị lỗi, yêu cầu đổi trả.",2,2023-06-16
+Laptop,user_42,Chất lượng không đúng như mong đợi.,4,2023-08-27
+Bàn phím cơ,user_111,"Đóng gói cẩn thận, giá hợp lý.",2,2023-07-09
+Laptop,user_278,Giao hàng rất nhanh và đúng hẹn.,4,2024-04-06
+Giày thể thao,user_281,Không hài lòng với chất lượng sản phẩm.,3,2024-08-08
+Áo thun,user_433,Giao hàng rất nhanh và đúng hẹn.,3,2023-11-21
+Bàn phím cơ,user_200,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-08-13
+Áo thun,user_382,Chất lượng không đúng như mong đợi.,2,2023-09-04
+Giày thể thao,user_385,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2024-04-28
+Điện thoại,user_331,Giao hàng rất nhanh và đúng hẹn.,1,2024-05-07
+Bàn phím cơ,user_6,Dịch vụ khách hàng rất tệ.,3,2023-12-15
+Giày thể thao,user_306,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-08-04
+Điện thoại,user_191,Không hài lòng với chất lượng sản phẩm.,2,2023-02-28
+Laptop,user_489,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-07-10
+Laptop,user_301,Sẽ tiếp tục mua hàng lần sau.,1,2023-12-29
+Điện thoại,user_340,Giao hàng rất nhanh và đúng hẹn.,4,2024-05-21
+Giày thể thao,user_326,Giao hàng rất nhanh và đúng hẹn.,5,2024-08-21
+Bàn phím cơ,user_153,Dịch vụ khách hàng rất tệ.,5,2023-02-10
+Áo thun,user_203,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-08-10
+Áo thun,user_433,"Đóng gói cẩn thận, giá hợp lý.",5,2024-07-03
+Áo thun,user_289,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2024-05-27
+Laptop,user_51,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2024-06-28
+Bàn phím cơ,user_85,Sẽ tiếp tục mua hàng lần sau.,1,2023-04-15
+Điện thoại,user_134,Sẽ tiếp tục mua hàng lần sau.,1,2024-08-08
+Giày thể thao,user_130,Không hài lòng với chất lượng sản phẩm.,3,2023-05-10
+Giày thể thao,user_383,"Đóng gói cẩn thận, giá hợp lý.",5,2023-02-13
+Laptop,user_440,Chất lượng không đúng như mong đợi.,5,2023-08-05
+Giày thể thao,user_318,Giao hàng rất nhanh và đúng hẹn.,5,2024-08-14
+Điện thoại,user_247,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-01-05
+Giày thể thao,user_194,Dịch vụ khách hàng rất tệ.,1,2023-07-20
+Áo thun,user_280,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2024-09-24
+Laptop,user_276,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-09-16
+Bàn phím cơ,user_429,Sẽ tiếp tục mua hàng lần sau.,4,2023-02-17
+Giày thể thao,user_401,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-08-07
+Giày thể thao,user_47,Sẽ tiếp tục mua hàng lần sau.,2,2024-05-10
+Giày thể thao,user_484,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2023-04-23
+Bàn phím cơ,user_16,Dịch vụ khách hàng rất tệ.,2,2023-06-06
+Bàn phím cơ,user_258,Giao hàng rất nhanh và đúng hẹn.,2,2024-04-14
+Điện thoại,user_412,Chất lượng không đúng như mong đợi.,5,2024-10-21
+Điện thoại,user_263,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2023-12-05
+Điện thoại,user_190,Không hài lòng với chất lượng sản phẩm.,3,2024-05-27
+Bàn phím cơ,user_373,Sẽ tiếp tục mua hàng lần sau.,4,2023-05-01
+Điện thoại,user_345,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2024-03-26
+Giày thể thao,user_212,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-07-20
+Bàn phím cơ,user_210,Dịch vụ khách hàng rất tệ.,3,2023-11-30
+Áo thun,user_256,Sẽ tiếp tục mua hàng lần sau.,2,2024-06-30
+Áo thun,user_349,Dịch vụ khách hàng rất tệ.,4,2024-02-29
+Áo thun,user_372,Không hài lòng với chất lượng sản phẩm.,2,2023-12-19
+Bàn phím cơ,user_60,Giao hàng rất nhanh và đúng hẹn.,5,2024-03-15
+Laptop,user_139,Chất lượng không đúng như mong đợi.,4,2023-11-11
+Áo thun,user_133,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-04-14
+Áo thun,user_182,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",2,2023-01-27
+Điện thoại,user_272,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-06-09
+Laptop,user_256,Dịch vụ khách hàng rất tệ.,2,2024-02-14
+Laptop,user_228,Chất lượng không đúng như mong đợi.,4,2024-10-25
+Bàn phím cơ,user_124,Sẽ tiếp tục mua hàng lần sau.,1,2024-06-11
+Điện thoại,user_115,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-06-11
+Điện thoại,user_304,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2024-10-26
+Laptop,user_326,"Sản phẩm rất tốt, giao hàng nhanh.",5,2024-03-12
+Điện thoại,user_138,Giao hàng rất nhanh và đúng hẹn.,3,2023-08-10
+Giày thể thao,user_398,Dịch vụ khách hàng rất tệ.,2,2024-08-21
+Điện thoại,user_279,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2023-11-10
+Laptop,user_304,"Đóng gói cẩn thận, giá hợp lý.",2,2024-07-27
+Bàn phím cơ,user_492,Sẽ tiếp tục mua hàng lần sau.,4,2023-08-18
+Giày thể thao,user_440,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-06-21
+Áo thun,user_49,Giao hàng rất nhanh và đúng hẹn.,5,2024-07-30
+Bàn phím cơ,user_184,Không hài lòng với chất lượng sản phẩm.,3,2024-01-25
+Giày thể thao,user_353,Giao hàng rất nhanh và đúng hẹn.,2,2024-04-14
+Bàn phím cơ,user_308,Giao hàng rất nhanh và đúng hẹn.,3,2024-01-23
+Điện thoại,user_134,"Đóng gói cẩn thận, giá hợp lý.",1,2023-10-29
+Áo thun,user_118,Giao hàng rất nhanh và đúng hẹn.,1,2023-06-25
+Laptop,user_335,"Sản phẩm rất tốt, giao hàng nhanh.",5,2023-02-04
+Laptop,user_201,Sẽ tiếp tục mua hàng lần sau.,5,2023-02-07
+Bàn phím cơ,user_388,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-10-09
+Bàn phím cơ,user_496,Giao hàng rất nhanh và đúng hẹn.,2,2023-01-11
+Giày thể thao,user_469,Không hài lòng với chất lượng sản phẩm.,1,2023-02-23
+Áo thun,user_439,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-06-04
+Bàn phím cơ,user_65,Giao hàng rất nhanh và đúng hẹn.,3,2023-01-03
+Giày thể thao,user_164,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2024-05-06
+Bàn phím cơ,user_153,Giao hàng rất nhanh và đúng hẹn.,4,2023-11-23
+Bàn phím cơ,user_384,Sẽ tiếp tục mua hàng lần sau.,3,2023-03-01
+Bàn phím cơ,user_470,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-11-26
+Bàn phím cơ,user_246,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-02-21
+Điện thoại,user_390,Sẽ tiếp tục mua hàng lần sau.,2,2023-09-30
+Laptop,user_249,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2024-09-25
+Bàn phím cơ,user_396,"Đóng gói cẩn thận, giá hợp lý.",2,2023-12-28
+Bàn phím cơ,user_434,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-06-29
+Điện thoại,user_161,Không hài lòng với chất lượng sản phẩm.,2,2023-08-09
+Giày thể thao,user_284,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-05-08
+Laptop,user_392,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",1,2024-10-22
+Giày thể thao,user_190,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2024-04-11
+Điện thoại,user_322,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-06-06
+Laptop,user_277,Sẽ tiếp tục mua hàng lần sau.,1,2023-06-10
+Áo thun,user_290,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-09-13
+Điện thoại,user_376,Dịch vụ khách hàng rất tệ.,3,2024-06-09
+Điện thoại,user_257,Không hài lòng với chất lượng sản phẩm.,1,2024-03-31
+Laptop,user_102,Không hài lòng với chất lượng sản phẩm.,5,2024-06-08
+Giày thể thao,user_494,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-11-08
+Laptop,user_252,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-09-18
+Bàn phím cơ,user_407,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2023-12-28
+Áo thun,user_115,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-03-13
+Giày thể thao,user_146,Chất lượng không đúng như mong đợi.,1,2024-08-22
+Laptop,user_331,Chất lượng không đúng như mong đợi.,5,2023-05-01
+Bàn phím cơ,user_4,Sẽ tiếp tục mua hàng lần sau.,5,2023-09-06
+Áo thun,user_169,Giao hàng rất nhanh và đúng hẹn.,2,2024-01-08
+Áo thun,user_469,Sẽ tiếp tục mua hàng lần sau.,4,2023-03-08
+Giày thể thao,user_263,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-07-21
+Giày thể thao,user_200,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-01-02
+Áo thun,user_145,Sẽ tiếp tục mua hàng lần sau.,5,2023-01-29
+Laptop,user_135,Không hài lòng với chất lượng sản phẩm.,3,2024-06-26
+Giày thể thao,user_135,Dịch vụ khách hàng rất tệ.,3,2024-03-28
+Áo thun,user_434,Chất lượng không đúng như mong đợi.,1,2023-02-28
+Laptop,user_319,Chất lượng không đúng như mong đợi.,2,2023-01-21
+Điện thoại,user_387,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",1,2023-05-07
+Bàn phím cơ,user_263,Không hài lòng với chất lượng sản phẩm.,3,2024-07-05
+Laptop,user_279,Chất lượng không đúng như mong đợi.,5,2024-09-04
+Điện thoại,user_241,Chất lượng không đúng như mong đợi.,1,2023-06-27
+Laptop,user_481,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-10-28
+Laptop,user_408,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-08-12
+Áo thun,user_273,"Màu sắc đẹp, nhưng chất liệu không ổn.",5,2023-10-31
+Giày thể thao,user_98,Không hài lòng với chất lượng sản phẩm.,3,2024-06-07
+Áo thun,user_112,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",3,2023-03-05
+Bàn phím cơ,user_312,Chất lượng không đúng như mong đợi.,1,2024-07-10
+Bàn phím cơ,user_148,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2023-11-22
+Áo thun,user_271,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2023-08-18
+Điện thoại,user_471,Giao hàng rất nhanh và đúng hẹn.,3,2024-01-06
+Laptop,user_215,Giao hàng rất nhanh và đúng hẹn.,3,2023-02-10
+Laptop,user_445,"Sản phẩm rất tốt, giao hàng nhanh.",1,2024-09-04
+Áo thun,user_170,"Đóng gói cẩn thận, giá hợp lý.",1,2023-08-31
+Áo thun,user_130,Giao hàng rất nhanh và đúng hẹn.,2,2023-11-21
+Giày thể thao,user_279,Chất lượng không đúng như mong đợi.,2,2023-11-28
+Giày thể thao,user_111,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2024-03-31
+Giày thể thao,user_257,Sẽ tiếp tục mua hàng lần sau.,5,2024-05-20
+Áo thun,user_293,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-10-30
+Laptop,user_241,Giao hàng rất nhanh và đúng hẹn.,4,2023-10-28
+Laptop,user_472,Giao hàng rất nhanh và đúng hẹn.,1,2024-06-12
+Điện thoại,user_242,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2024-09-07
+Giày thể thao,user_388,"Đóng gói cẩn thận, giá hợp lý.",2,2024-02-08
+Điện thoại,user_63,Không hài lòng với chất lượng sản phẩm.,2,2024-08-21
+Giày thể thao,user_440,Chất lượng không đúng như mong đợi.,5,2023-01-06
+Laptop,user_164,Sẽ tiếp tục mua hàng lần sau.,4,2024-05-01
+Áo thun,user_444,Không hài lòng với chất lượng sản phẩm.,2,2024-09-30
+Bàn phím cơ,user_109,Sẽ tiếp tục mua hàng lần sau.,2,2023-02-15
+Bàn phím cơ,user_212,Chất lượng không đúng như mong đợi.,3,2023-03-24
+Bàn phím cơ,user_376,Sẽ tiếp tục mua hàng lần sau.,1,2024-03-03
+Laptop,user_75,"Đóng gói cẩn thận, giá hợp lý.",1,2024-08-24
+Giày thể thao,user_68,Sẽ tiếp tục mua hàng lần sau.,4,2024-03-29
+Laptop,user_498,Giao hàng rất nhanh và đúng hẹn.,5,2024-09-20
+Điện thoại,user_318,Sẽ tiếp tục mua hàng lần sau.,5,2024-06-17
+Giày thể thao,user_29,Sẽ tiếp tục mua hàng lần sau.,2,2024-01-03
+Giày thể thao,user_246,Không hài lòng với chất lượng sản phẩm.,5,2024-05-02
+Áo thun,user_342,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2023-01-06
+Laptop,user_263,Sẽ tiếp tục mua hàng lần sau.,1,2023-11-30
+Áo thun,user_246,"Sản phẩm rất tốt, giao hàng nhanh.",3,2024-05-30
+Điện thoại,user_23,Chất lượng không đúng như mong đợi.,4,2024-01-21
+Bàn phím cơ,user_179,Sẽ tiếp tục mua hàng lần sau.,2,2024-07-04
+Điện thoại,user_203,"Sản phẩm rất tốt, giao hàng nhanh.",1,2023-08-21
+Điện thoại,user_485,Giao hàng rất nhanh và đúng hẹn.,5,2024-03-17
+Áo thun,user_236,Dịch vụ khách hàng rất tệ.,4,2024-06-25
+Áo thun,user_491,"Sản phẩm bị lỗi, yêu cầu đổi trả.",4,2023-10-03
+Laptop,user_137,"Màu sắc đẹp, nhưng chất liệu không ổn.",3,2023-09-22
+Giày thể thao,user_406,Giao hàng rất nhanh và đúng hẹn.,5,2024-06-01
+Laptop,user_110,"Sản phẩm rất tốt, giao hàng nhanh.",1,2024-09-27
+Giày thể thao,user_64,Chất lượng không đúng như mong đợi.,5,2023-01-25
+Bàn phím cơ,user_261,"Đóng gói cẩn thận, giá hợp lý.",1,2024-08-04
+Giày thể thao,user_458,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-04-01
+Giày thể thao,user_33,Dịch vụ khách hàng rất tệ.,4,2024-03-28
+Bàn phím cơ,user_441,Sẽ tiếp tục mua hàng lần sau.,2,2023-06-30
+Giày thể thao,user_426,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",5,2023-01-30
+Điện thoại,user_498,Không hài lòng với chất lượng sản phẩm.,5,2023-09-05
+Điện thoại,user_144,"Sản phẩm rất tốt, giao hàng nhanh.",4,2024-05-17
+Điện thoại,user_479,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2023-10-15
+Điện thoại,user_314,Chất lượng không đúng như mong đợi.,1,2023-09-20
+Laptop,user_225,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2024-01-24
+Bàn phím cơ,user_242,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-07-02
+Laptop,user_13,"Màu sắc đẹp, nhưng chất liệu không ổn.",1,2024-08-29
+Giày thể thao,user_395,Sẽ tiếp tục mua hàng lần sau.,1,2024-02-17
+Giày thể thao,user_244,"Màu sắc đẹp, nhưng chất liệu không ổn.",2,2023-09-29
+Điện thoại,user_158,"Đóng gói cẩn thận, giá hợp lý.",2,2024-03-20
+Bàn phím cơ,user_417,Chất lượng không đúng như mong đợi.,2,2023-05-10
+Điện thoại,user_17,Giao hàng rất nhanh và đúng hẹn.,5,2023-04-02
+Áo thun,user_12,Chất lượng không đúng như mong đợi.,3,2024-06-17
+Áo thun,user_455,Chất lượng không đúng như mong đợi.,3,2023-12-25
+Bàn phím cơ,user_11,Chất lượng không đúng như mong đợi.,4,2023-12-26
+Giày thể thao,user_146,Giao hàng rất nhanh và đúng hẹn.,3,2023-12-22
+Laptop,user_424,"Sản phẩm rất tốt, giao hàng nhanh.",3,2023-09-04
+Điện thoại,user_242,Giao hàng rất nhanh và đúng hẹn.,4,2023-02-12
+Áo thun,user_146,Chất lượng không đúng như mong đợi.,5,2023-05-09
+Laptop,user_258,"Sản phẩm bị lỗi, yêu cầu đổi trả.",3,2024-03-07
+Giày thể thao,user_86,"Đóng gói cẩn thận, giá hợp lý.",2,2023-08-31
+Bàn phím cơ,user_470,Sẽ tiếp tục mua hàng lần sau.,2,2023-10-19
+Laptop,user_136,"Sản phẩm bị lỗi, yêu cầu đổi trả.",5,2023-12-05
+Bàn phím cơ,user_391,"Màu sắc đẹp, nhưng chất liệu không ổn.",4,2023-03-21
+Giày thể thao,user_473,"Sản phẩm rất tốt, giao hàng nhanh.",4,2023-09-05
+Áo thun,user_478,"Sản phẩm bị lỗi, yêu cầu đổi trả.",1,2023-04-02
+Bàn phím cơ,user_489,Giao hàng rất nhanh và đúng hẹn.,3,2023-01-13
+Laptop,user_497,Chất lượng không đúng như mong đợi.,1,2023-10-02
+Áo thun,user_165,"Hàng giao thiếu phụ kiện, nhưng shop đã xử lý nhanh.",4,2024-01-04

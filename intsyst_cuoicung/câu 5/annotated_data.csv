@@ -1,0 +1,21 @@
+product_id,comment,sentiment,preference
+P134,"Sản phẩm rất tốt, mình rất hài lòng.",Trung lập,Sở thích
+P140,"Không như mong đợi, sản phẩm quá tệ.",Trung lập,Không thích
+P105,Mình thích thiết kế của sản phẩm này!,Trung lập,Sở thích
+P154,"Chất lượng tạm ổn, giá hợp lý.",Trung lập,Trung lập
+P164,"Giao hàng nhanh, sản phẩm đúng như quảng cáo.",Trung lập,Trung lập
+P116,"Màu sắc không giống trong ảnh, thất vọng.",Trung lập,Không thích
+P122,"Giá cả phải chăng, đáng mua.",Trung lập,Trung lập
+P168,"Đóng gói cẩn thận, nhưng chất lượng không tốt lắm.",Trung lập,Không thích
+P151,"Hài lòng với sản phẩm này, sẽ mua lần nữa.",Trung lập,Trung lập
+P188,"Sản phẩm lỗi, không khuyến khích mua.",Trung lập,Không thích
+P143,Đẹp và chất lượng tốt!,Trung lập,Trung lập
+P194,Quá đắt so với chất lượng nhận được.,Trung lập,Trung lập
+P101,Mình sẽ giới thiệu sản phẩm này cho bạn bè.,Trung lập,Trung lập
+P129,"Hàng về bị móp, không hài lòng.",Trung lập,Sở thích
+P189,Dịch vụ chăm sóc khách hàng kém.,Trung lập,Trung lập
+P198,Nhận hàng nhanh chóng và chất lượng tuyệt vời.,Trung lập,Trung lập
+P130,Màu sắc hợp thời trang.,Trung lập,Trung lập
+P194,"Không nên mua, chất lượng kém.",Trung lập,Trung lập
+P132,"Phù hợp với giá tiền, mình thấy ổn.",Trung lập,Trung lập
+P140,Dịch vụ tuyệt vời và sản phẩm chất lượng.,Trung lập,Trung lập
